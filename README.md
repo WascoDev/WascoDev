@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Odubote Wasiu</h1>
-<h3 align="center">I'm highly motivated Junoir Software Developer with exprience in building and maintaining web applications. Proficient in HTML, CSS, JavaScript, Dart, Python, Mysql, Java, and C++ with expertise in MVC frameworks like React, Flutter, Bootstrap, Tailwind CSS, Node JS, Django and Firebase. Seeking to join a dynamic team where I can Utilize my skills to help drive the success of the organization</h3>
+<h2 align="center">Hi 👋, I'm Odubote Wasiu</h2>
+<h4 align="center"> I'm a passionate web developer with two years of experience in crafting elegant and functional websites. Proficient in HTML, CSS, JavaScript, and various frameworks like React, Boostrap, Tailwind CSS, Firebase, Express JS, Mysql, Flutter, and Node JS. Skilled in responsive design and cross-browser compatibility. Dedicated to continuous learning and staying updated with the latest web technologies. Committed to delivering high-quality, user-centric solutions that exceed expectations. Let's code and create together! 🚀 #WebDeveloper #CodeWizard</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wascdev&label=Profile%20views&color=0e75b6&style=flat" alt="wascdev" /> </p>
 
